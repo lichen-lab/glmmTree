@@ -14,13 +14,18 @@ R CMD INSTALL nlme_3.1-122.tar.gz
 
 ## example data
 ### data1.rda
-* z.tr
-* y.tr
-* z.te
-* y.te
-* D
+* z.tr: 778 OTU proportions for 100 samples in training set
+* y.tr: Continous outcome for 100 samples in training set
+* z.te: 778 OTU proportions for 200 samples in testing set
+* y.te: Continous outcome for 200 samples in training set
+* D: Patristic distance matrix among 778 OTUs
 
 ### data2.rda
+* z.tr: 778 OTU proportions for 100 samples in training set
+* y.tr: Binary outcome for 100 samples in training set
+* z.te: 778 OTU proportions for 200 samples in testing set
+* y.te: Binary outcome for 200 samples in training set
+* D: Patristic distance matrix among 778 OTUs
 
 
 ## example for continous outcome
