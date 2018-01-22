@@ -14,7 +14,11 @@ R CMD INSTALL nlme_3.1-122.tar.gz
 
 ## example data
 ### data1.rda
-
+* z.tr
+* y.tr
+* z.te
+* y.te
+* D
 
 ### data2.rda
 
