@@ -1,7 +1,9 @@
-# glmmTree
-Predictive modeling of microbiome data using a phylogenetic tree-regularized generalized linear mixed model
+glmmTree Tutorial
+================
 
-# dependent R packages
+dependent R packages
+----------
+
 install.packages('rrBLUP')
 install.packages('Matrix')
 nlme: https://cran.r-project.org/src/contrib/Archive/nlme/nlme_3.1-122.tar.gz
